@@ -2,5 +2,5 @@
 
 * [目录](README.md)
 * [gitbook介绍](chapter1.md)
-* [chapter2](chapter2.md)
+* [使用gitbook](chapter2.md)
 
