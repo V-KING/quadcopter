@@ -3,5 +3,4 @@
 * [Introduction](README.md)
 * [gitbook](gitbook/SUMMARY.md)
    * [chapter3](gitbook/chapter3.md)
-   * [chapter1](chapter1.md)
 
