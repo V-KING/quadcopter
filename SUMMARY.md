@@ -1,6 +1,6 @@
 # Summary
 
 * [目录](README.md)
-* [gitbook](chapter1.md)
+* [gitbook](gitbook/SUMMARY.md)
 * [使用gitbook](chapter2.md)
 
