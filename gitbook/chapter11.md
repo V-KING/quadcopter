@@ -1,5 +1,7 @@
 # 第一节
 
-第一节干嘛呢？？？
+* 下载gitbook editor
+* 注册一个gitbook.com的账号
 
-爱干嘛干嘛
+
+
