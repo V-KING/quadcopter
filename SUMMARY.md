@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [gitbook](gitbook/SUMMARY.md)
    * [安装gitbook编辑器](gitbook/chapter1.md)
-   * [gitbook如何生成web page](gitbook/chapter2.md)
+   * [服务端安装gitbook](gitbook/chapter2.md)
    * [gitbook如何生成web page](gitbook/chapter3.md)
    * [多端口配置](gitbook/multi-port.md)
 * [视频应用](视频应用/SUMMARY.md)
