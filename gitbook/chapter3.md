@@ -1,6 +1,6 @@
 
 
-# 第二章 如何生成web page
+# 第二章 gitbook如何生成web page
 有两种方式可以生成web page。
 ###1. 直接使用gitbook命令的方式
 gitbook自己生成静态网页，不需要用其他web服务器
