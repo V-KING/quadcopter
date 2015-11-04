@@ -20,8 +20,9 @@ gitbook自己生成静态网页，不需要用其他web服务器
     $ mkdir /tmp/gitbook
     $ gitbook build --output=/tmp/gitbook　
 
-* 配置apache子域名
+* 配置apache子域名或者多端口
 
-
+* [多端口配置](multi-port.md)
+* [apache子域名配置](sub-domain.md)
 
 
