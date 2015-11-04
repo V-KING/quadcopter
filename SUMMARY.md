@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [所有笔记](README.md)
 * [gitbook](gitbook/SUMMARY.md)
    * [安装gitbook编辑器](gitbook/chapter1.md)
    * [服务端安装gitbook](gitbook/chapter2.md)
