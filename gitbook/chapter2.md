@@ -1,20 +1,14 @@
-# 第二章 如何生成web page
+# 服务端gitbook的使用
 
-###gitbook怎么去生成static web page
+### 在服务端安装gitbook
 
-
-* 生成到当前目录
- 
-
-    cd repoBook
-    sudo gitbook serve .
-    
+1. 安装node.js
+2. 安装gitbook
+3. 可以安装其他功能插件
 
 
-* 生成到指定的目录
+### gitbook在服务端的使用
 
 
-    $ mkdir /tmp/gitbook
-    $ gitbook build --output=/tmp/gitbook　
 
 
