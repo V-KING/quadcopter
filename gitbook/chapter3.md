@@ -1,6 +1,6 @@
 # 服务端gitbook的使用
 
-### 安装gitbook在服务端
+### 在服务端安装gitbook
 
 1. 安装node.js
 2. 安装gitbook
