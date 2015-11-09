@@ -20,8 +20,8 @@ function Init(){
 <script>
 window.onload=window.onresize=Init;           
 function Init(){            
-	document.getElementById("video").width=""+document.body.clientWidth*0.8+"";             
-	document.getElementById("video").height=""+document.body.clientWidth*0.45+"";
+	document.getElementById("video").width=""+document.getElementById("section-").width+"";             
+	document.getElementById("video").height=""+document.getElementById("section-").width*9/16+"";
 }
 </script>
 
