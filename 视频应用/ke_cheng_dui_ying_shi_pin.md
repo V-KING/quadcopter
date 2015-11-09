@@ -2,7 +2,7 @@
 
 
 * 方法三
-* 
+
 ```
 <divstyle="text-align: center;">
 <embedid="movie"src="http://player.youku.com/player.php/sid/XMjg4NzkzMjQ4/v.swf"allowfullscreen="true"quality="high"width="90%"align="middle"allowscriptaccess="always"type="application/x-shockwave-flash"/>
