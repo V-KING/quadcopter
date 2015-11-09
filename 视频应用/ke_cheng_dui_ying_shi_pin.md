@@ -13,6 +13,8 @@ function Init(){
 	document.getElementById("section-").height=""+document.body.clientWidth*0.45+"";
 }
 </script>
+
+document.getElementsByTagName("iframe").video.width
 ```
 
 <iframe id="video" width="510" height="498" src="http://player.youku.com/embed/XODA2NDM4OTI0"  frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -20,8 +22,8 @@ function Init(){
 <script>
 window.onresize=Init;           
 function Init(){            
-	document.getElementById("video").width=""+document.getElementById("section-").width+"";             
-	document.getElementById("video").height=""+document.getElementById("section-").width*9/16+"";
+	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth+"";
+	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth*9/16+"";
 }
 </script>
 
