@@ -4,15 +4,6 @@
 * 方法三
 
 ```
-<divstyle="text-align: center;">
-<embedid="movie"src="http://player.youku.com/player.php/sid/XMjg4NzkzMjQ4/v.swf"allowfullscreen="true"quality="high"width="90%"align="middle"allowscriptaccess="always"type="application/x-shockwave-flash"/>
-</div>
-<scripttype="text/javascript">document.getElementById("movie").style.height=document.getElementById("movie").scrollWidth*0.8+"px"</script>
-
-
-```
-
-
 <iframe height="498" width="510" src="http://player.youku.com/embed/XNjcyMDU4Njg0"></iframe>
 
 
@@ -29,6 +20,15 @@ var resizeIframe=function(){
     }
 }
 </script>
+
+
+```
+
+
+<iframe height="498" width="510" src="http://player.youku.com/embed/XNjcyMDU4Njg0"></iframe>
+
+
+
 
 
 
