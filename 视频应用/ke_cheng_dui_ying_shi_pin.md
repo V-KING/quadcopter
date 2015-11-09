@@ -18,7 +18,7 @@ function Init(){
 <iframe id="video" src="http://player.youku.com/embed/XODA2NDM4OTI0" width="510" height="498" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <script>
-window.onload=window.onresize=Init;           
+window.onresize=Init;           
 function Init(){            
 	document.getElementById("video").width=""+document.getElementById("section-").width+"";             
 	document.getElementById("video").height=""+document.getElementById("section-").width*9/16+"";
