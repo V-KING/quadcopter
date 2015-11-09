@@ -23,23 +23,10 @@ var resizeIframe=function(){
 ```
 
 
-<iframe height="498" width="510" src="http://player.youku.com/embed/XNjcyMDU4Njg0"></iframe>
-
-<script type="text/javascript">
-window.onload = window.onresize = function () {
-    resizeIframe();
-    
-}
-var resizeIframe=function(){
-    var bodyw=document.body.clientWidth;
-    console.log(bodyw)
-    for(var ilength=0;ilength<=document.getElementsByTagName("iframe").length;ilength++){
-
-        document.getElementsByTagName("iframe")[ilength].height = bodyw*9/16;//设定高度
-
-    }
-}
-</script>
+<div style="width:60%;height:60%;">
+<embed src="http://player.youku.com/player.php/sid/XNzM0NzMzMzQ0/v.swf" allowFullScreen="true" quality="high" width="100%" height="60%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
+</embed>
+</div>
 
 
 
