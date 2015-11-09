@@ -18,10 +18,10 @@ function Init(){
 <iframe id="video" src="http://player.youku.com/embed/XODA2NDM4OTI0" width="510" height="498" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <script>
-window.onresize=Init;           
+window.onload=window.onresize=Init;           
 function Init(){            
-	document.getElementById("video").width=""+document.body.clientWidth*0.8+"";             
-	document.getElementById("video").height=""+document.body.clientWidth*0.45+"";
+	document.getElementById("section-").width=""+document.body.clientWidth*0.8+"";             
+	document.getElementById("section-").height=""+document.body.clientWidth*0.45+"";
 }
 </script>
 
