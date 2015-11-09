@@ -22,11 +22,15 @@ var resizeIframe=function(){
 </script>
 ```
 
+<iframe id="video" src="http://player.youku.com/embed/XODA2NDM4OTI0" width="510" height="498" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<div style="width:60%;height:60%;">
-<embed src="http://player.youku.com/player.php/sid/XNzM0NzMzMzQ0/v.swf" allowFullScreen="true" quality="high" width="100%" height="60%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
-</embed>
-</div>
+<script>
+window.onresize=Init;           
+function Init(){            
+	document.getElementById("video").width=""+document.body.clientWidth*0.8+"";             
+	document.getElementById("video").height=""+document.body.clientWidth*0.45+"";
+}
+</script>
 
 
 
