@@ -6,5 +6,5 @@
    * [服务端安装gitbook](gitbook/chapter2.md)
    * [gitbook如何生成web page](gitbook/chapter3.md)
    * [多端口配置](gitbook/multi-port.md)
-   * [gitbook插入视频](ke_cheng_dui_ying_shi_pin.md)
+   * [gitbook插入视频](ke_cheng_dui_ying_shi_pin_md.md)
 
