@@ -20,10 +20,10 @@ document.getElementsByTagName("iframe").video.width
 <iframe id="video" width="510" height="498" src="http://player.youku.com/embed/XODA2NDM4OTI0"  frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <script>
-window.onresize=Init;           
+window.onload=window.onresize=Init;           
 function Init(){            
 	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth+"";
-	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth*9/16+"";
+	document.getElementsByTagName("iframe").video.height=""+document.getElementById("section-").clientWidth*9/16+"";
 }
 </script>
 
