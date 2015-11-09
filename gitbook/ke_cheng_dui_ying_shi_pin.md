@@ -20,8 +20,9 @@ function Init(){
 
 <script>
 window.onload=window.onresize=Init;           
+var iframePaddingleft = 15;
 function Init(){            
-	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth-30+"";
+	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth-iframePaddingleft*2+"";
 	document.getElementsByTagName("iframe").video.height=""+document.getElementById("section-").clientWidth*9/16+"";
 }
 </script>
