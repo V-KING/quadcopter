@@ -27,7 +27,15 @@ var resizeIframe=function(){
 
 <iframe height="498" width="510" src="http://player.youku.com/embed/XNjcyMDU4Njg0"></iframe>
 
-
+<script type="text/javascript">
+window.onload = window.onresize = function () {
+    resizeIframe();
+}
+var resizeIframe=function(){
+    var bodyw=document.body.clientWidth;
+        document.getElementsByTagName("iframe")[ilength].height = bodyw*9/16;//设定高度
+}
+</script>
 
 
 
