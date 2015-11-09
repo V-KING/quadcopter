@@ -1,6 +1,24 @@
 # gitbook插入视频
 
 
+* 方法三
+* 
+```
+<divstyle="text-align: center;">
+<embedid="movie"src="http://player.youku.com/player.php/sid/XMjg4NzkzMjQ4/v.swf"allowfullscreen="true"quality="high"width="90%"align="middle"allowscriptaccess="always"type="application/x-shockwave-flash"/>
+</div>
+<scripttype="text/javascript">document.getElementById("movie").style.height=document.getElementById("movie").scrollWidth*0.8+"px"</script>
+
+
+```
+<divstyle="text-align: center;">
+<embedid="movie"src="http://player.youku.com/embed/XNjcyMDU4Njg0"allowfullscreen="true"quality="high"width="90%"align="middle"allowscriptaccess="always"type="application/x-shockwave-flash"/>
+</div>
+<scripttype="text/javascript">document.getElementById("movie").style.height=document.getElementById("movie").scrollWidth*0.8+"px"</script>
+
+
+
+
 * 方法一：
 
 ```
@@ -16,3 +34,4 @@
 ```
 
 <embed src="http://player.youku.com/player.php/sid/XNzQxMjU2ODI0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+
