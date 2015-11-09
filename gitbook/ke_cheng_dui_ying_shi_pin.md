@@ -21,7 +21,7 @@ function Init(){
 <script>
 window.onload=window.onresize=Init;           
 function Init(){            
-	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth*0.95+"";
+	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth*0.93+"";
 	document.getElementsByTagName("iframe").video.height=""+document.getElementById("section-").clientWidth*9/16+"";
 }
 </script>
