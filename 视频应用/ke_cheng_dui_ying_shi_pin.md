@@ -22,7 +22,7 @@ document.getElementsByTagName("iframe").video.width
 <script>
 window.onload=window.onresize=Init;           
 function Init(){            
-	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth*0.8+"";
+	document.getElementsByTagName("iframe").video.width=""+document.getElementById("section-").clientWidth*0.9+"";
 	document.getElementsByTagName("iframe").video.height=""+document.getElementById("section-").clientWidth*9/16+"";
 }
 </script>
