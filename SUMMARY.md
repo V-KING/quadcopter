@@ -7,5 +7,5 @@
    * [gitbook如何生成web page](gitbook/chapter3.md)
    * [多端口配置](gitbook/multi-port.md)
    * [gitbook插入视频](gitbook/ke_cheng_dui_ying_shi_pin.md)
-   * test
+   * [test](gitbook/test.md)
 
