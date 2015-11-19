@@ -1,5 +1,4 @@
-# 所有笔记
+# 总索引
 
 
 * [gitbook](gitbook/SUMMARY.md)
-* [视频应用](视频应用/SUMMARY.md)
