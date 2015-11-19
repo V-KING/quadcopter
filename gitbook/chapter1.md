@@ -1,4 +1,4 @@
-# gitbook
+# gitbook编辑器安装
 
 GitBook 是免费且开源的，源码github项目地址：https://github.com/GitbookIO/gitbook
 
