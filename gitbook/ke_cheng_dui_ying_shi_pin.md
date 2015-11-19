@@ -16,7 +16,7 @@ function Init(){
 </script>
 ```
 
-<iframe id="video" width="510" height="498" src="http://player.youku.com/embed/XODA2NDM4OTI0"  frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe id="video" width="100%" height="498" src="http://player.youku.com/embed/XODA2NDM4OTI0"  frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <script>
 window.onload=window.onresize=Init;           
