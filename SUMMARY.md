@@ -1,7 +1,7 @@
 # Summary
 
 * [所有笔记](README.md)
-* [gitbook](gitbook/SUMMARY.md)
+* [gitbook](gitbook/summary.md)
    * [安装gitbook编辑器](gitbook/chapter1.md)
    * [服务端安装gitbook](gitbook/chapter2.md)
    * [gitbook如何生成web page](gitbook/chapter3.md)
